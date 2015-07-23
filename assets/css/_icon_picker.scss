@@ -1,0 +1,48 @@
+.ysg-icon-picker{
+
+}
+
+.ysg-icon-picker-preview{
+	margin-top: 12px;
+	display: block;
+
+	[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after,
+	i{
+		font-size: 36px !important;
+		color: #666;
+	}	
+}
+
+.ysg-list-of-icon{
+	padding: 6px 12px;
+	.ysg-row.ysg-wrap{
+		border-top: 1px solid #e5e5e5;
+		border-left: 1px solid #e5e5e5;	
+	}	
+	span{		
+		height: 50px;
+		line-height: 50px;
+		text-align: center;		
+		border-right: 1px solid #e5e5e5;
+		border-bottom: 1px solid #e5e5e5;
+		cursor: pointer;
+		i{
+			font-size: 16px;
+			color: #444;
+		}
+		&.ysg-active,
+		&:hover{
+			background-color: #1e8cbe;
+			i{
+				color: #FFF;
+			}			
+		}
+	}
+	.ysg-textbox{
+		width: 100%;
+		margin-bottom: 24px;				
+		height: 25px;
+		line-height:25px;
+		padding: 0px 12px;
+	}
+}

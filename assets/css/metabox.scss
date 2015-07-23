@@ -1,0 +1,15 @@
+.ysg-metabox-wrap{
+	margin-top: 12px;
+	padding-top: 12px;
+	border-top: 1px solid #eee;
+	&.ysg-metabox-wrap-first{
+		margin-top: 12px;
+		padding-top: 0px;
+		border-top: none;
+	}
+
+	.ysg-help{
+		font-size: 85%;
+		font-style: italic;
+	}
+}

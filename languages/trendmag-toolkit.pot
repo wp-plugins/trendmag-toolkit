@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trendmag Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-24 17:16+0700\n"
+"PO-Revision-Date: 2015-06-24 17:17+0700\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: Kopasoft\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/ajax.php:14
+msgid "Search..."
+msgstr ""
+
+#: inc/fields/metabox/gallery.php:18
+msgid "Config"
+msgstr ""
+
+#: inc/fields/metabox/icon.php:10 inc/fields/widget/icon.php:12
+#: inc/fields/widget/link-icon.php:16
+msgid "select icon"
+msgstr ""
+
+#: inc/fields/widget/link-icon.php:32
+msgid "Link text"
+msgstr ""
+
+#: inc/fields/widget/link-icon.php:41
+msgid "Link URL"
+msgstr ""
+
+#: inc/hook.php:42
+msgid "Featured content"
+msgstr ""
+
+#: inc/hook.php:49
+msgid "Gallery:"
+msgstr ""
+
+#: inc/hook.php:52
+msgid "This option only apply for post-format \"Gallery\"."
+msgstr ""
+
+#: inc/hook.php:55
+msgid "Custom:"
+msgstr ""
+
+#: inc/hook.php:58
+msgid "Enter custom content as shortcode or custom HTML, ..."
+msgstr ""
+
+#: inc/hook.php:85
+msgid "Custom featured image size"
+msgstr ""
+
+#: inc/hook.php:127
+msgid "Job"
+msgstr ""
+
+#: inc/post-types/megamenu.php:17 inc/post-types/megamenu.php:19
+#: inc/post-types/megamenu.php:20
+msgctxt "trendmag-toolkit"
+msgid "Mega Menus"
+msgstr ""
+
+#: inc/post-types/megamenu.php:18
+msgctxt "trendmag-toolkit"
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/post-types/megamenu.php:21
+msgctxt "trendmag-toolkit"
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/megamenu.php:22
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: inc/post-types/megamenu.php:23
+msgid "New Mega Menu"
+msgstr ""
+
+#: inc/post-types/megamenu.php:24
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: inc/post-types/megamenu.php:25
+msgid "View Mega Menu"
+msgstr ""
+
+#: inc/post-types/megamenu.php:26
+msgid "All Mega Menus"
+msgstr ""
+
+#: inc/post-types/megamenu.php:27
+msgid "Search Mega Menus"
+msgstr ""
+
+#: inc/post-types/megamenu.php:28
+msgid "No mega menus found."
+msgstr ""
+
+#: inc/post-types/megamenu.php:29
+msgid "No mega menus found in Trash."
+msgstr ""
+
+#: inc/post-types/megamenu.php:62
+msgid "Settings"
+msgstr ""
+
+#: inc/post-types/megamenu.php:69
+msgid "Sidebar"
+msgstr ""
+
+#: inc/post-types/megamenu.php:83
+#: inc/widgets/woocomerce/latest-products.php:38
+#: inc/widgets/woocomerce/product-category.php:43
+msgid "Title"
+msgstr ""
+
+#: inc/post-types/megamenu.php:84
+msgid "Shortcode"
+msgstr ""
+
+#: inc/shortcodes/alert.php:11
+msgid "Close"
+msgstr ""
+
+#: inc/util.php:519 inc/util.php:525
+msgid "-- none --"
+msgstr ""
+
+#: inc/util.php:534 inc/widgets/contact/newsletter-feedburner.php:22
+#: inc/widgets/contact/social-links.php:23
+#: inc/widgets/post/sticky-posts.php:22
+#: inc/widgets/social/flickr-photos.php:23
+#: inc/widgets/social/instagram-photos.php:23
+msgid "Title:"
+msgstr ""
+
+#: inc/util.php:539
+msgid "Categories:"
+msgstr ""
+
+#: inc/util.php:545
+msgid "Relation:"
+msgstr ""
+
+#: inc/util.php:548
+msgid "AND"
+msgstr ""
+
+#: inc/util.php:549
+msgid "OR"
+msgstr ""
+
+#: inc/util.php:555
+msgid "Tags:"
+msgstr ""
+
+#: inc/util.php:562
+msgid "Order:"
+msgstr ""
+
+#: inc/util.php:564
+msgid "ASC"
+msgstr ""
+
+#: inc/util.php:565
+msgid "DESC"
+msgstr ""
+
+#: inc/util.php:571
+msgid "Orderby:"
+msgstr ""
+
+#: inc/util.php:573
+msgid "Date"
+msgstr ""
+
+#: inc/util.php:574
+msgid "Random"
+msgstr ""
+
+#: inc/util.php:575
+msgid "Number of comments"
+msgstr ""
+
+#: inc/util.php:581 inc/widgets/post/sticky-posts.php:27
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:16
+msgid "Display your infomation."
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:18
+msgid "(Trendmag) Contact Simple"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:22
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:23
+msgid "Address title:"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:29
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:34
+msgid "Call us"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:35
+msgid "Telephone title:"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:41
+#: inc/widgets/contact/contact-text.php:47
+msgid "Telephone:"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:46
+#: inc/widgets/contact/contact-simple.php:53
+#: inc/widgets/contact/contact-text.php:53
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/contact/contact-simple.php:47
+msgid " title:"
+msgstr ""
+
+#: inc/widgets/contact/contact-text.php:16
+msgid "Display your organization information on footer."
+msgstr ""
+
+#: inc/widgets/contact/contact-text.php:18
+msgid "(Trendmag) Contact"
+msgstr ""
+
+#: inc/widgets/contact/contact-text.php:23
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets/contact/contact-text.php:29
+msgid "Street Address:"
+msgstr ""
+
+#: inc/widgets/contact/contact-text.php:35
+msgid "Address Locality:"
+msgstr ""
+
+#: inc/widgets/contact/contact-text.php:41
+msgid "Postal Code:"
+msgstr ""
+
+#: inc/widgets/contact/google-map.php:15
+msgid "Display your google map."
+msgstr ""
+
+#: inc/widgets/contact/google-map.php:17
+msgid "(Trendmag) Google Map"
+msgstr ""
+
+#: inc/widgets/contact/google-map.php:22
+msgid "Place"
+msgstr ""
+
+#: inc/widgets/contact/google-map.php:27
+msgid "Latitude"
+msgstr ""
+
+#: inc/widgets/contact/google-map.php:32
+msgid "Longitude"
+msgstr ""
+
+#: inc/widgets/contact/google-map.php:37
+msgid "Height"
+msgstr ""
+
+#: inc/widgets/contact/newsletter-feedburner.php:15
+msgid "Display a newsletter form with feedburner service."
+msgstr ""
+
+#: inc/widgets/contact/newsletter-feedburner.php:17
+msgid "(Trendmag) Newsletter Feedburner"
+msgstr ""
+
+#: inc/widgets/contact/newsletter-feedburner.php:21
+msgid "Newsletter"
+msgstr ""
+
+#: inc/widgets/contact/newsletter-feedburner.php:27
+msgid "Your Email"
+msgstr ""
+
+#: inc/widgets/contact/newsletter-feedburner.php:28
+msgid "Button text:"
+msgstr ""
+
+#: inc/widgets/contact/newsletter-feedburner.php:34
+msgid "Feedburner URI:"
+msgstr ""
+
+#: inc/widgets/contact/social-links.php:15
+msgid "Display your social links."
+msgstr ""
+
+#: inc/widgets/contact/social-links.php:17
+msgid "(Trendmag) Social Links"
+msgstr ""
+
+#: inc/widgets/contact/social-links.php:22
+msgid "Follow me"
+msgstr ""
+
+#: inc/widgets/contact/social-links.php:27
+msgid "Follow"
+msgstr ""
+
+#: inc/widgets/contact/social-links.php:28
+msgid "Title responsive:"
+msgstr ""
+
+#: inc/widgets/contact/social-links.php:33
+msgid "Number of social links:"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:45
+msgid "Display a banner with custom link."
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:47
+msgid "(Trendmag) Advertisement"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:53
+msgid "Banner:"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:58
+msgid "Layout for:"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:60
+msgid "Layout for size 980 x 90 px ( in blog content )"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:61
+msgid "Layout for size 300 x 390 px ( in blog sidebar )"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:62
+msgid "Layout for size 252 x 125 px ( in footer )"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:63
+msgid "Layout for custom size"
+msgstr ""
+
+#: inc/widgets/intro/advertisement.php:69
+msgid "Link to:"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-five.php:15
+msgid "Display slides with carousel effect, five item per page."
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-five.php:17
+msgid "(Trendmag) Slide Five"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-five.php:23
+msgid "Number words of excerpt to show:"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-five.php:34
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-media.php:17
+msgid ""
+"Display slides with carousel effect for media page, three item per page."
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-media.php:19
+msgid "(Trendmag) Slide Media"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-media.php:26
+msgid "Video"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-media.php:27
+msgid "Gallery"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-media.php:29
+msgid "Format:"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-one.php:14
+msgid "Display slides with carousel effect, one item per page."
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-one.php:16
+msgid "(Trendmag) Slide One"
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-three.php:15
+msgid "Display slides with carousel effect, three item per page."
+msgstr ""
+
+#: inc/widgets/post/carousel-slide-three.php:17
+msgid "(Trendmag) Slide Three"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-carousel.php:15
+msgid "Display grid posts for some layouts with carousel effect"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-carousel.php:17
+msgid "(Trendmag) Grid Posts Carousel"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-carousel.php:22
+msgid "Show border of header"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-carousel.php:71
+#: inc/widgets/post/list-videos.php:89
+msgid "No title"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-more-link.php:15
+msgid "Display grid posts with more link"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-more-link.php:17
+msgid "(Trendmag) Grid Posts More Link"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-more-link.php:23
+#: inc/widgets/post/list-videos.php:24
+#: inc/widgets/woocomerce/list-products.php:45
+msgid "Button text"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-more-link.php:28
+#: inc/widgets/post/list-videos.php:29
+#: inc/widgets/woocomerce/list-products.php:50
+msgid "Button link"
+msgstr ""
+
+#: inc/widgets/post/grid-posts-more-link.php:33
+#: inc/widgets/post/list-videos.php:34
+#: inc/widgets/woocomerce/list-products.php:71
+msgid "Open link in new window"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:15
+msgid "Display grid posts"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:17
+msgid "(Trendmag) Grid Posts"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:23
+msgid "Number words of excerpt"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:35 inc/widgets/post/megamenu-posts.php:29
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:119
+msgid "No comments yet"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:119
+msgid "comment"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:119
+msgid "comment(s)"
+msgstr ""
+
+#: inc/widgets/post/grid-posts.php:119
+msgid "Comments are off for this post"
+msgstr ""
+
+#: inc/widgets/post/list-videos.php:15
+msgid "Display list video posts with only thumbnail and play icon."
+msgstr ""
+
+#: inc/widgets/post/list-videos.php:17
+msgid "(Trendmag) List Videos"
+msgstr ""
+
+#: inc/widgets/post/megamenu-posts.php:15
+msgid "Display grid posts for megamenu"
+msgstr ""
+
+#: inc/widgets/post/megamenu-posts.php:17
+msgid "(Trendmag) Megamenu Posts"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:15
+msgid "Display list posts with bxslider effect"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:17
+msgid "(Trendmag) Post Bxslider"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:23
+msgid "Mode ( horizontal or vertical. Default is vertical )"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:25
+msgid "Vertical"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:26
+msgid "Horizontal"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:32
+#: inc/widgets/post/posts-carousel.php:31
+msgid "Auto slide"
+msgstr ""
+
+#: inc/widgets/post/posts-bxslider.php:37
+msgid "Speed ( Default is 4000 )"
+msgstr ""
+
+#: inc/widgets/post/posts-carousel.php:15
+msgid "Display list posts with carousel effect"
+msgstr ""
+
+#: inc/widgets/post/posts-carousel.php:17
+msgid "(Trendmag) Post Carousel"
+msgstr ""
+
+#: inc/widgets/post/posts-carousel.php:24
+msgid "Slider item ( Default is 10 )"
+msgstr ""
+
+#: inc/widgets/post/recent-posts.php:15
+msgid "Display recent posts."
+msgstr ""
+
+#: inc/widgets/post/recent-posts.php:17
+msgid "(Trendmag) Recent Posts"
+msgstr ""
+
+#: inc/widgets/post/sticky-posts.php:15
+msgid "Display sticky post by newest."
+msgstr ""
+
+#: inc/widgets/post/sticky-posts.php:17
+msgid "(Trendmag) Sticky Posts"
+msgstr ""
+
+#: inc/widgets/post/sticky-posts.php:21
+msgid "live stream"
+msgstr ""
+
+#: inc/widgets/post/sticky-posts.php:33
+msgid "Number words of Excerpt to show:"
+msgstr ""
+
+#: inc/widgets/social/flickr-photos.php:16
+msgid "Display your photos from Flickr.com"
+msgstr ""
+
+#: inc/widgets/social/flickr-photos.php:18
+msgid "(Trendmag) Flickr"
+msgstr ""
+
+#: inc/widgets/social/flickr-photos.php:22
+msgid "FLICKR"
+msgstr ""
+
+#: inc/widgets/social/flickr-photos.php:28
+msgid "Flickr ID:"
+msgstr ""
+
+#: inc/widgets/social/flickr-photos.php:29
+msgid ""
+"(click <a href=\"http://idgettr.com/\" target=\"_blank\">here</a> to find "
+"your ID)"
+msgstr ""
+
+#: inc/widgets/social/flickr-photos.php:34
+#: inc/widgets/social/instagram-photos.php:34
+msgid "Number of photos:"
+msgstr ""
+
+#: inc/widgets/social/instagram-photos.php:16
+msgid "Display your photos from Instagram"
+msgstr ""
+
+#: inc/widgets/social/instagram-photos.php:18
+msgid "(Trendmag) Instagram"
+msgstr ""
+
+#: inc/widgets/social/instagram-photos.php:22
+msgid "Follow us @ instagram"
+msgstr ""
+
+#: inc/widgets/social/instagram-photos.php:28
+msgid "Client ID:"
+msgstr ""
+
+#: inc/widgets/social/instagram-photos.php:29
+msgid ""
+"(You can obtain a client id registering a new Instagram API client app at <a "
+"href=\"http://instagram.com/developer/clients/register/\" target=\"_blank"
+"\">here</a>)"
+msgstr ""
+
+#: inc/widgets/woocomerce/latest-products.php:31
+msgid "Show latest products"
+msgstr ""
+
+#: inc/widgets/woocomerce/latest-products.php:33
+msgid "(Trendmag) Latest Products"
+msgstr ""
+
+#: inc/widgets/woocomerce/latest-products.php:39
+msgid " Products"
+msgstr ""
+
+#: inc/widgets/woocomerce/latest-products.php:44
+msgid "Number of products"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:18
+msgid "Display a list of products."
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:20
+msgid "Trendmag List Products"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:25
+msgid "Title first"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:30
+msgid "Title after"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:35
+msgid "Title link"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:40
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:44
+msgid "lookbook"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:55
+msgid "Number of product"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:60
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:62
+msgid "Sale products"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:63
+msgid "Best selling products"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:64
+msgid "Top rated products"
+msgstr ""
+
+#: inc/widgets/woocomerce/list-products.php:65
+msgid "Featured products"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category-carousel.php:21
+msgid "Show shop categories with carousel effect"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category-carousel.php:23
+msgid "Trendmag Product Categories Carousel"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category-carousel.php:30
+#: inc/widgets/woocomerce/product-category.php:30
+msgid "-- Select Categories --"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category-carousel.php:43
+#: inc/widgets/woocomerce/product-category.php:49
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category.php:21
+msgid "Show shop categories"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category.php:23
+msgid "Trendmag Product Categories"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category.php:113
+msgid "of"
+msgstr ""
+
+#: inc/widgets/woocomerce/product-category.php:149
+msgid " products"
+msgstr ""
+
+#: inc/woocommerce.php:40
+msgid "Home"
+msgstr ""
+
+#: inc/woocommerce.php:120 inc/woocommerce.php:129 inc/woocommerce.php:135
+msgid "Product Archive"
+msgstr ""
+
+#: inc/woocommerce.php:158 inc/woocommerce.php:167 inc/woocommerce.php:173
+msgid "Product Single"
+msgstr ""
+
+#: trendmag-toolkit.php:124
+msgid "Icon Picker"
+msgstr ""
+
+#: trendmag-toolkit.php:125
+msgid "Shortcodes"
+msgstr ""
+
+#: trendmag-toolkit.php:126
+msgid "Caption"
+msgstr ""
+
+#: trendmag-toolkit.php:127
+msgid "Grid"
+msgstr ""
+
+#: trendmag-toolkit.php:128
+msgid "Container"
+msgstr ""
+
+#: trendmag-toolkit.php:129
+msgid "Tabs"
+msgstr ""
+
+#: trendmag-toolkit.php:130
+msgid "Accordion"
+msgstr ""
+
+#: trendmag-toolkit.php:131
+msgid "Toggle"
+msgstr ""
+
+#: trendmag-toolkit.php:132
+msgid "Dropcap"
+msgstr ""
+
+#: trendmag-toolkit.php:133
+msgid "Circle"
+msgstr ""
+
+#: trendmag-toolkit.php:134
+msgid "Rectangle"
+msgstr ""
+
+#: trendmag-toolkit.php:135
+msgid "Transparent"
+msgstr ""
+
+#: trendmag-toolkit.php:136
+msgid "Alert box"
+msgstr ""
+
+#: trendmag-toolkit.php:137
+msgid "Notice"
+msgstr ""
+
+#: trendmag-toolkit.php:138
+msgid "Info"
+msgstr ""
+
+#: trendmag-toolkit.php:139
+msgid "Success"
+msgstr ""
+
+#: trendmag-toolkit.php:140
+msgid "Warning"
+msgstr ""
+
+#: trendmag-toolkit.php:141
+msgid "Danger"
+msgstr ""
+
+#: trendmag-toolkit.php:142
+msgid "Button"
+msgstr ""
+
+#: trendmag-toolkit.php:143
+msgid "White"
+msgstr ""
+
+#: trendmag-toolkit.php:144
+msgid "Black"
+msgstr ""
+
+#: trendmag-toolkit.php:145
+msgid "Small"
+msgstr ""
+
+#: trendmag-toolkit.php:146
+msgid "Medium"
+msgstr ""
+
+#: trendmag-toolkit.php:147
+msgid "Large"
+msgstr ""
+
+#: trendmag-toolkit.php:148
+msgid "Default"
+msgstr ""
+
+#: trendmag-toolkit.php:149
+msgid "Special"
+msgstr ""
